@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/RegisterServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/js/cart.js</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/DAO/CartDAO.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/LoginServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/order/checkout.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/AdminProductServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Models/User.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/order/order-history.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/ProfileServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/admin/order-detail.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/product/products.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Models/Order.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/index.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/order/order-detail.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/AdminOrderServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/CartServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/user/login.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/ProductServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Utils/PasswordUtil.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Filter/AdminFilter.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Models/OrderDetail.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/DAO/ProductDAO.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/ProductImageServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Models/Category.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/DAO/UserDAO.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Utils/DBConnection.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/HomeServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Models/Product.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Filter/AuthenticationFilter.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/DAO/OrderDAO.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/views/product/home.jsp</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/OrderServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/tools/HashPasswordTool.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/src/java/Controller/CheckoutServlet.java</file>
+            <file>file:/D:/XX_HuynhMinhKhang_TrinhThaiSon_HaPhuocDuy/ModelKitShop/web/index.html</file>
+        </group>
+    </open-files>
+</project-private>
