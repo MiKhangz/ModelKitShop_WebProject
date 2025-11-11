@@ -1,1 +1,2 @@
-Welcome to my project
+It's time for, are you ready, "Hello World!"
+-------------------------------------------
